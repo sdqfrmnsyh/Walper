@@ -5,7 +5,8 @@ A simple and modern wallpaper manager for Linux. Supports both static (JPG, PNG,
 https://img.shields.io/badge/status-active-brightgreen
 https://img.shields.io/badge/license-MIT-blue
 
-walper.png
+![Uploading walper.png…]()
+
 
 Features
 

@@ -6,26 +6,26 @@ A simple and modern wallpaper manager for Linux. Supports both static (JPG, PNG,
 
 <img width="500" height="450" alt="walper" src="https://github.com/user-attachments/assets/913755b0-944f-4c30-a08e-28cb17c86506" />
 
-Features
+## Features
 
-• 🖼️ Static wallpapers – apply images instantly using feh --bg-fill
-• 🎥 Live wallpapers – play video/GIF wallpapers via a custom script (hy.sh)
-· 📂 Folder browsing – add a folder and all supported media files appear sorted by name
-· 🔄 Real‑time update – folder changes (file added/deleted) are reflected immediately
-· 🧹 Stop live wallpaper – one button to kill running xwinwrap/mpv processes
-· 🗂️ History – remembers the last used folder
-· 🖱️ Context menu – right‑click to apply or delete a wallpaper file
-· 🌐 Localization – English & Indonesian (more can be added)
-· 📦 Embedded translations – no extra files needed at runtime
-· 💻 Easy install/uninstall – CMake build system with make install & make uninstall
+- 🖼️ **Static wallpapers** – apply images instantly using `feh --bg-fill`
+- 🎥 **Live wallpapers** – play video/GIF wallpapers via a custom script (`hy.sh`)
+- 📂 **Folder browsing** – add a folder and all supported media files appear sorted by name
+- 🔄 **Real‑time update** – folder changes (file added/deleted) are reflected immediately
+- 🧹 **Stop live wallpaper** – one button to kill running `xwinwrap`/`mpv` processes
+- 🗂️ **History** – remembers the last used folder
+- 🖱️ **Context menu** – right‑click to apply or delete a wallpaper file
+- 🌐 **Localization** – English & Indonesian (more can be added)
+- 📦 **Embedded translations** – no extra files needed at runtime
+- 💻 **Easy install/uninstall** – CMake build system with `make install` & `make uninstall`
 
-Dependencies
+## Dependencies
 
-· Qt5 – Widgets module
-· feh – for setting static wallpapers
-· mpv – for video/GIF live wallpapers
-· xwinwrap – to embed mpv on the desktop background (live wallpaper)
-· lrelease (optional, from qt5-tools or qttools5-dev-tools) – to compile translations
+- **Qt5** – Widgets module
+- **feh** – for setting static wallpapers
+- **mpv** – for video/GIF live wallpapers
+- **xwinwrap** – to embed mpv on the desktop background (live wallpaper)
+- **lrelease** (optional, from `qt5-tools` or `qttools5-dev-tools`) – to compile translations
 
 Install dependencies
 

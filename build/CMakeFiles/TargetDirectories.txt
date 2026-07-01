@@ -1,0 +1,11 @@
+/home/modz/Github/walper/build/CMakeFiles/walper.dir
+/home/modz/Github/walper/build/CMakeFiles/translations_qm.dir
+/home/modz/Github/walper/build/CMakeFiles/uninstall.dir
+/home/modz/Github/walper/build/CMakeFiles/edit_cache.dir
+/home/modz/Github/walper/build/CMakeFiles/rebuild_cache.dir
+/home/modz/Github/walper/build/CMakeFiles/list_install_components.dir
+/home/modz/Github/walper/build/CMakeFiles/install.dir
+/home/modz/Github/walper/build/CMakeFiles/install/local.dir
+/home/modz/Github/walper/build/CMakeFiles/install/strip.dir
+/home/modz/Github/walper/build/CMakeFiles/walper_autogen_timestamp_deps.dir
+/home/modz/Github/walper/build/CMakeFiles/walper_autogen.dir

@@ -10,8 +10,8 @@ https://img.shields.io/badge/license-MIT-blue
 
 Features
 
-· 🖼️ Static wallpapers – apply images instantly using feh --bg-fill
-· 🎥 Live wallpapers – play video/GIF wallpapers via a custom script (hy.sh)
+• 🖼️ Static wallpapers – apply images instantly using feh --bg-fill
+• 🎥 Live wallpapers – play video/GIF wallpapers via a custom script (hy.sh)
 · 📂 Folder browsing – add a folder and all supported media files appear sorted by name
 · 🔄 Real‑time update – folder changes (file added/deleted) are reflected immediately
 · 🧹 Stop live wallpaper – one button to kill running xwinwrap/mpv processes

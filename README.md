@@ -142,7 +142,7 @@ make
 ./walper
 ```
 
-Contributing
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
@@ -152,7 +152,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 4. Push to the branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
 
-License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
 

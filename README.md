@@ -47,7 +47,7 @@ If you don't need live wallpapers, you can still use Walper for static images (j
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/walper.git
+git clone https://github.com/sdqfrmnsyh//walper.git
 cd walper
 mkdir build && cd build
 cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/.local

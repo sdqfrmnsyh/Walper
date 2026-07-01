@@ -27,7 +27,7 @@ A simple and modern wallpaper manager for Linux. Supports both static (JPG, PNG,
 - **xwinwrap** – to embed mpv on the desktop background (live wallpaper)
 - **lrelease** (optional, from `qt5-tools` or `qttools5-dev-tools`) – to compile translations
 
-Install dependencies
+## Install dependencies
 
 Arch Linux
 
@@ -44,7 +44,7 @@ sudo apt install qtbase5-dev qttools5-dev-tools feh mpv xwinwrap
 Note: xwinwrap may need to be built from source on some distributions.
 If you don't need live wallpapers, you can still use Walper for static images (just ignore the script).
 
-Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/walper.git
@@ -57,14 +57,14 @@ make install
 
 After installation:
 
-· Binary: ~/.local/bin/walper
-· Desktop entry: ~/.local/share/applications/walper.desktop
-· Live wallpaper script: ~/.config/walper/hy.sh
-· History file: ~/.config/walper/history (auto‑created on first run)
+- Binary: ~/.local/bin/walper
+- Desktop entry: ~/.local/share/applications/walper.desktop
+- Live wallpaper script: ~/.config/walper/hy.sh
+- History file: ~/.config/walper/history (auto‑created on first run)
 
 Make sure ~/.local/bin is in your PATH. Restart your desktop environment if you want the application menu entry to appear.
 
-Usage
+## Usage
 
 Launch the application:
 
@@ -82,16 +82,16 @@ or from your desktop menu (Walper).
 
 ## Setting a wallpaper
 
-· Static image – select a .jpg, .png, .webp… and press Terapkan Wallpaper (Apply Wallpaper) or right‑click → Terapkan.
-· Live wallpaper – select a video/GIF file and press Terapkan Wallpaper. The default script ~/.config/walper/hy.sh will be executed with the file path as argument.
-· To stop a running live wallpaper, click Hentikan Live Wallpaper (Stop Live Wallpaper).
+- Static image – select a .jpg, .png, .webp… and press Terapkan Wallpaper (Apply Wallpaper) or right‑click → Terapkan.
+- Live wallpaper – select a video/GIF file and press Terapkan Wallpaper. The default script ~/.config/walper/hy.sh will be executed with the file path as argument.
+- To stop a running live wallpaper, click Hentikan Live Wallpaper (Stop Live Wallpaper).
 
 ## Language
 
 By default Walper uses your system locale:
 
-· If your locale is Indonesian (id_ID), the interface appears in Indonesian.
-· Otherwise it falls back to English.
+- If your locale is Indonesian (id_ID), the interface appears in Indonesian.
+- Otherwise it falls back to English.
 
 You can force English by running:
 

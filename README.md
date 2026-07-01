@@ -74,17 +74,34 @@ walper
 
 or from your desktop menu (Walper).
 
-## Adding a folder
+## Add folder
 
 1. Click Tambah Folder (Add Folder).
 2. In the dialog, double‑click a folder to select it quickly.
 3. All supported image and video files will appear in the list.
 
-## Setting a wallpaper
+## Apply Wallpaper
 
 - Static image – select a .jpg, .png, .webp… and press Terapkan Wallpaper (Apply Wallpaper) or right‑click → Terapkan.
 - Live wallpaper – select a video/GIF file and press Terapkan Wallpaper. The default script ~/.config/walper/hy.sh will be executed with the file path as argument.
 - To stop a running live wallpaper, click Hentikan Live Wallpaper (Stop Live Wallpaper).
+
+## Script
+
+Edit ~/.config/walper/hy.sh. The first argument $1 is the full path to the selected video/GIF.
+Example script:
+
+```bash
+#!/bin/bash
+WALLPAPER="$1"
+if [ -z "$WALLPAPER" ]; then exit 1; fi
+# Hentikan proses sebelumnya
+pkill -f "xwinwrap.*mpv" 2>/dev/null
+# Jalankan wallpaper
+xwinwrap -fs -ni -b -nf -un -ov -fdt -- mpv -wid %WID --loop-file=inf --no-audio --no-config --profile=fast --vo=gpu --gpu-context=x11 --hwdec=no --interpolation=no --scale=bilinear --cscale=bilinear --vd-lavc-threads=1 --cache=no --no-sub --no-osc --no-osd-bar --really-quiet "$WALLPAPER" &
+```
+
+Make the script executable: chmod +x ~/.config/walper/hy.sh.
 
 ## Language
 
@@ -98,23 +115,6 @@ You can force English by running:
 ```bash
 LANGUAGE=en walper
 ```
-
-Customising the live wallpaper script
-
-Edit ~/.config/walper/hy.sh. The first argument $1 is the full path to the selected video/GIF.
-Example script:
-
-```bash
-#!/bin/bash
-WALLPAPER="$1"
-if [ -z "$WALLPAPER" ]; then exit 1; fi
-
-pkill -f "xwinwrap.*mpv" 2>/dev/null
-xwinwrap -g 1920x1080 -ni -s -nf -b -un -argb -fdt -- \
-    mpv --no-audio --no-osc --no-osd-bar --loop-file --really-quiet "$WALLPAPER" &
-```
-
-Make the script executable: chmod +x ~/.config/walper/hy.sh.
 
 ## Uninstallation
 

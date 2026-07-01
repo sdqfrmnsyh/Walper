@@ -116,7 +116,7 @@ xwinwrap -g 1920x1080 -ni -s -nf -b -un -argb -fdt -- \
 
 Make the script executable: chmod +x ~/.config/walper/hy.sh.
 
-Uninstallation
+## Uninstallation
 
 Run from the build directory:
 

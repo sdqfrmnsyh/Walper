@@ -74,19 +74,19 @@ walper
 
 or from your desktop menu (Walper).
 
-Adding a folder
+## Adding a folder
 
 1. Click Tambah Folder (Add Folder).
 2. In the dialog, double‑click a folder to select it quickly.
 3. All supported image and video files will appear in the list.
 
-Setting a wallpaper
+## Setting a wallpaper
 
 · Static image – select a .jpg, .png, .webp… and press Terapkan Wallpaper (Apply Wallpaper) or right‑click → Terapkan.
 · Live wallpaper – select a video/GIF file and press Terapkan Wallpaper. The default script ~/.config/walper/hy.sh will be executed with the file path as argument.
 · To stop a running live wallpaper, click Hentikan Live Wallpaper (Stop Live Wallpaper).
 
-Language
+## Language
 
 By default Walper uses your system locale:
 

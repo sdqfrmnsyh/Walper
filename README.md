@@ -3,6 +3,7 @@ A simple and modern wallpaper manager for Linux. Supports both static (JPG, PNG,
 <img width="78" height="20" alt="license-MIT-blue" src="https://github.com/user-attachments/assets/81a7493f-9423-4ff0-815a-b695b7e39c66" />
 <img width="86" height="20" alt="status-active-brightgreen" src="https://github.com/user-attachments/assets/ae8fbd5a-a57c-4135-a455-423d40bb6c3e" />
 
+
 <img width="500" height="450" alt="walper" src="https://github.com/user-attachments/assets/913755b0-944f-4c30-a08e-28cb17c86506" />
 
 Features

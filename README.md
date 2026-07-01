@@ -1,11 +1,12 @@
-Walper
+<img width="86" height="20" alt="status-active-brightgreen" src="https://github.com/user-attachments/assets/75f2ce16-447e-45ce-b072-5e81dae49c20" />Walper
 
 A simple and modern wallpaper manager for Linux. Supports both static (JPG, PNG, WebP, etc.) and live wallpapers (video/GIF) with a clean Qt5 GUI.
 
-https://img.shields.io/badge/status-active-brightgreen
-https://img.shields.io/badge/license-MIT-blue
+![Uploading status-active-brightgreen.svg…]<svg xmlns="http://www.w3.org/2000/svg" width="86" height="20" role="img" aria-label="status: active"><title>status: active</title><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="86" height="20" rx="3"/></clipPath><g clip-path="url(#r)"><rect width="43" height="20" fill="#555"/><rect x="43" width="43" height="20" fill="#4b0"/><rect width="86" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="225" y="150" fill-opacity=".8" filter="url(#blur)" textLength="330">status</text><text x="225" y="150" fill-opacity=".3" textLength="330">status</text></g><text x="225" y="140" textLength="330">status</text></g><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="635" y="150" fill-opacity=".8" filter="url(#blur)" textLength="330">active</text><text x="635" y="150" fill-opacity=".3" textLength="330">active</text></g><text x="635" y="140" textLength="330">active</text></g></g></svg>()
+![Uploading license<svg xmlns="http://www.w3.org/2000/svg" width="78" height="20" role="img" aria-label="license: MIT"><title>license: MIT</title><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="78" height="20" rx="3"/></clipPath><g clip-path="url(#r)"><rect width="47" height="20" fill="#555"/><rect x="47" width="31" height="20" fill="#007ec6"/><rect width="78" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="245" y="150" fill-opacity=".8" filter="url(#blur)" textLength="370">license</text><text x="245" y="150" fill-opacity=".3" textLength="370">license</text></g><text x="245" y="140" textLength="370">license</text></g><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="615" y="150" fill-opacity=".8" filter="url(#blur)" textLength="210">MIT</text><text x="615" y="150" fill-opacity=".3" textLength="210">MIT</text></g><text x="615" y="140" textLength="210">MIT</text></g></g></svg>-MIT-blue.svg…]()
 
-![Uploading walper.png…]()
+
+<img width="500" height="450" alt="walper" src="https://github.com/user-attachments/assets/913755b0-944f-4c30-a08e-28cb17c86506" />
 
 
 Features

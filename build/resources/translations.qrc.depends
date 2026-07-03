@@ -1,7 +1,0 @@
-<!DOCTYPE RCC>
-<RCC version="1.0">
-    <qresource prefix="/translations">
-        <file alias="walper_en.qm">../translations/walper_en.qm</file>
-        <file alias="walper_id.qm">../translations/walper_id.qm</file>
-    </qresource>
-</RCC>

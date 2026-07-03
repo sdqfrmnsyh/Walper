@@ -1,8 +1,0 @@
-# Hashes of file build rules.
-96caca02eb0c4b397cc27237cb66c600 /home/modz/Github/walper/translations/walper_en.qm
-6cddaa7f016dc62d83de5e5a4e6cd4f0 /home/modz/Github/walper/translations/walper_id.qm
-6353ebd56df0b91fd95cd214e4fb5cc3 CMakeFiles/translations_qm
-897e333ad6a7f60f5fc1f544ad99a12d CMakeFiles/uninstall
-6353ebd56df0b91fd95cd214e4fb5cc3 CMakeFiles/walper_autogen
-66c03e373bc2e07c8c35df13c10f352b qrc_translations.cpp
-ffff74f0b9349d98f3e0c29c3e0a7e6c walper_autogen/timestamp

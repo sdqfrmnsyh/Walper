@@ -1,2 +1,0 @@
-/home/modz/.local/bin/walper
-/home/modz/.local/share/applications/walper.desktop
